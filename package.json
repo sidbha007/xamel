@@ -1,6 +1,6 @@
 {
-  "name": "xamel",
-  "version": "0.3.1",
+  "name": "xamel2",
+  "version": "0.0.1",
   "description": "Fast and cozy way to extract data from XML.",
   "main": "./lib/xamel.js",
   "scripts": {
@@ -31,8 +31,8 @@
     }
   ],
   "dependencies": {
-    "sax": "0.4.x",
-    "xml-writer": "1.4.x"
+    "sax": "1.1.x",
+    "xml-writer": "1.6.x"
   },
   "devDependencies": {
     "expresso": "0.9.x",
